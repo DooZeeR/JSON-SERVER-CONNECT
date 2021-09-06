@@ -1,12 +1,9 @@
 {
-  "name": "JSON-SERVER-CONNECT",
+  "name": "json-server-connect",
   "version": "1.0.0",
   "description": "JSON server connect to database, and commands",
   "main": "main.js",
-  "dependencies": {
-    "express-generator": "^4.16.1",
-    "lodash": "^4.17.21"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
