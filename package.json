@@ -1,0 +1,25 @@
+{
+  "name": "JSON-SERVER-CONNECT",
+  "version": "1.0.0",
+  "description": "JSON server connect to database, and commands",
+  "main": "main.js",
+  "dependencies": {
+    "express-generator": "^4.16.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DooZeeR/JSON-SERVER-CONNECT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DooZeeR/JSON-SERVER-CONNECT/issues"
+  },
+  "homepage": "https://github.com/DooZeeR/JSON-SERVER-CONNECT#readme"
+}
